@@ -16,6 +16,9 @@
 
 <a href="https://www.linkedin.com/in/frederick-laddach-9406081b0/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+
+[![Download CV](https://img.shields.io/badge/Download_CV-4CAF50?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](https://github.com/user-attachments/files/18716340/CV_EN_14_FL_FL.pdf)
+
 </a>
 
 📧 **Email:** [Fryderyk.Laddach@gmail.com](mailto:Fryderyk.Laddach@gmail.com)  
