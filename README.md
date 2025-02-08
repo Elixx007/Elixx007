@@ -4,6 +4,13 @@
 ## 📢 About Me  
 
 👋 Hi! I'm **Frederick Laddach**, a **Junior IT Admin** passionate about technology, system management, and troubleshooting. I'm currently advancing my skills in **DevOps**, focusing on automation, infrastructure as code, and cloud technologies.
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/docker.png"></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/kubernetes.png"></a>
+  <a href="https://www.ansible.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/ansible.png"></a>
+  <a href="https://kernel.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux.png"></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/terraform.png"></a>
+</p>
 
 ## 📫 Let's Connect:
 
