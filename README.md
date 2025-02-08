@@ -5,6 +5,16 @@
 
 👋 Hi! I'm **Frederick Laddach**, a **Junior IT Admin** passionate about technology, system management, and troubleshooting. I'm currently advancing my skills in **DevOps**, focusing on automation, infrastructure as code, and cloud technologies.
 
+## 📫 Let's Connect:
+
+<a href="https://www.linkedin.com/in/frederick-laddach-9406081b0/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+</a>
+
+📧 **Email:** [Fryderyk.Laddach@gmail.com](mailto:Fryderyk.Laddach@gmail.com)  
+💼 **Portfolio:** *(in progress)*  
+
+---
 💡 **What sets me apart?**   
 ✔️ Strong problem-solving skills in IT environments   
 ✔️ Passion for learning and self-improvement  
@@ -42,17 +52,6 @@
 🔹 **Currently Working On:** A CI/CD pipeline project for automated deployment  
 🔹 **Open Source Contributions:** Actively contributing to DevOps-related repositories  
 🔹 **Personal Projects:** Developing automation scripts for system management  
-
----
-
-## 📫 Let's Connect:
-
-<a href="https://www.linkedin.com/in/frederick-laddach-9406081b0/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
-</a>
-
-📧 **Email:** [Fryderyk.Laddach@gmail.com](mailto:Fryderyk.Laddach@gmail.com)  
-💼 **Portfolio:** *(in progress)*  
 
 ---
 
