@@ -1,5 +1,5 @@
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">  
-<img src="https://komarev.com/ghpvc/?username=Elixx007" alt="Profile Views">  
+## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">  <img src="https://komarev.com/ghpvc/?username=Elixx007" alt="Profile Views">  
+
 
 ## 📢 About Me  
 
